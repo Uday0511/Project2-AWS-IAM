@@ -1,2 +1,2 @@
 # Project2-AWS-IAM
-enhancing the security using AWS IAM
+Enhancing the security using AWS IAM
